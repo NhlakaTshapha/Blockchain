@@ -1,0 +1,8 @@
+c:\users\nhlakanipho\documents\visual studio 2015\Projects\BlockChain\BlockChain\bin\Debug\BlockChain.exe.config
+c:\users\nhlakanipho\documents\visual studio 2015\Projects\BlockChain\BlockChain\obj\Debug\BlockChain.csprojResolveAssemblyReference.cache
+c:\users\nhlakanipho\documents\visual studio 2015\Projects\BlockChain\BlockChain\bin\Debug\BlockChain.exe
+c:\users\nhlakanipho\documents\visual studio 2015\Projects\BlockChain\BlockChain\bin\Debug\BlockChain.pdb
+c:\users\nhlakanipho\documents\visual studio 2015\Projects\BlockChain\BlockChain\bin\Debug\Newtonsoft.Json.dll
+c:\users\nhlakanipho\documents\visual studio 2015\Projects\BlockChain\BlockChain\bin\Debug\Newtonsoft.Json.xml
+c:\users\nhlakanipho\documents\visual studio 2015\Projects\BlockChain\BlockChain\obj\Debug\BlockChain.exe
+c:\users\nhlakanipho\documents\visual studio 2015\Projects\BlockChain\BlockChain\obj\Debug\BlockChain.pdb
